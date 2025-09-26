@@ -65,9 +65,9 @@ ________________________________________
 
 Authentication
 
-POST /authenticate
+    POST /authenticate
 
-Content-Type: application/json
+    Content-Type: application/json
 
 
 {
