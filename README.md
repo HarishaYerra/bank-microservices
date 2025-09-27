@@ -2,7 +2,7 @@
 ________________________________________
 
 A scalable, microservices-based banking application designed for handling customer accounts, transactions, and secure API access. Built with Spring Boot, Spring Cloud, and Spring Security (JWT), the project follows a distributed architecture with service discovery, API gateway, centralized configuration, API versioning, and documentation via Swagger.
-________________________________________
+___________________________________________
 **✨ Features**
 
 •	Account Management — Create accounts, view balances, deposit, withdraw, and transfer funds.
