@@ -5,23 +5,23 @@ A scalable, microservices-based banking application designed for handling custom
 ___________________________________________
 **✨ Features**
 
-•	Account Management — Create accounts, view balances, deposit, withdraw, and transfer funds.
+    •	Account Management — Create accounts, view balances, deposit, withdraw, and transfer funds.
 
-•	Transaction Management — Log and view transaction history.
+    •	Transaction Management — Log and view transaction history.
 
-•	Customer Management — Add, update, and retrieve customer details.
+    •	Customer Management — Add, update, and retrieve customer details.
 
-•	Centralized API Gateway — Single entry point for client communication.
+    •	Centralized API Gateway — Single entry point for client communication.
 
-•	Service Discovery — Eureka server for dynamic service registry and discovery.
+    •	Service Discovery — Eureka server for dynamic service registry and discovery.
 
-•	Centralized Configuration — Externalized configuration via Spring Cloud Config.
+    •	Centralized Configuration — Externalized configuration via Spring Cloud Config.
 
-•	Security — JWT authentication & authorization for all services.
+    •	Security — JWT authentication & authorization for all services.
 
-•	API Versioning — Versioned endpoints for backward compatibility.
+    •	API Versioning — Versioned endpoints for backward compatibility.
 
-•	API Documentation — Swagger UI for each service.
+    •	API Documentation — Swagger UI for each service.
 
 ________________________________________
 **🛠 Tech Stack**
