@@ -1,7 +1,7 @@
 **Bank Server Microservices Project**
 ________________________________________
 
-A scalable, microservices-based banking application designed for handling customer accounts, transactions, and secure API access. Built with Spring Boot, Spring Cloud, and Spring Security (JWT), the project follows a distributed architecture with service discovery, API gateway, centralized configuration, API versioning, and documentation via Swagger.
+A scalable, microservices-based banking application designed for handling customer accounts, transactions, and secure API access. Built with Spring Boot, Spring Cloud, and Spring Security (JWT), the project follows a distributed architecture with service discovery, API gateway, centralized configuration, API versioning, and documentation via Swagger
 ___________________________________________
 **✨ Features**
 
